@@ -23,10 +23,10 @@
 
 ## 📌 Pinned Projects
 
-[![Spatio-Temporal-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spatio-Temporal-Data-Analysis&theme=radical)](https://github.com/himashree-10/SSpatio-Temporal-Analysis-for-Crime-Prediction-Model)
-[![Spotify-Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spotify-Spam-Detection&theme=radical)](https://github.com/himashree-10/Spotify-Data-Analytics)
-[![Spam-Detection ](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spotify-Spam-Detection&theme=radical)](https://github.com/himashree-10/Spam-Detection)
-[![Campus-Recruitment-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spotify-Spam-Detection&theme=radical)](https://github.com/himashree-10/Campus-Recruitment-Data-Analysis)
+[![Spatio-Temporal-Analysis-for-Crime-Prediction-Model](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spatio-Temporal-Analysis-for-Crime-Prediction-Model&theme=radical)](https://github.com/himashree-10/Spatio-Temporal-Analysis-for-Crime-Prediction-Model)
+[![Spotify-Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spotify-Data-Analytics&theme=radical)](https://github.com/himashree-10/Spotify-Data-Analytics)
+[![Spam-Detection ](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spam-Detection&theme=radical)](https://github.com/himashree-10/Spam-Detection)
+[![Campus-Recruitment-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Campus-Recruitment-Data-Analysis&theme=radical)](https://github.com/himashree-10/Campus-Recruitment-Data-Analysis)
 
 ---
 
