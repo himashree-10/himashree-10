@@ -15,29 +15,26 @@
 
 ## 🛠 Tech Stack & Tools
 
-- **Languages:** Java, Python, JavaScript
-- **Frameworks & Libraries:** Angular, JSP, Servlets
-- **Tools & Platforms:** Eclipse, MySQL, Git
+- **Languages:** Python, SQL, JavaScript
+- **Frameworks & Libraries:** BeautifulSoup, Scrapy, Pandas, NumPy, Scikit-Learn
+- **Tools & Platforms:** Jupyter Notebook, Selenium, Git, MySQL
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himashree-10&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himashree-10&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true&custom_title=Data%20Science%20Contributions)
 
 ## 📌 Pinned Projects
 
-[![Ticket-Booking-System](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Ticket-Booking-System&theme=radical)](https://github.com/himashree-10/Ticket-Booking-System)
-[![Spotify-Data-Analytics](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spotify-Data-Analytics&theme=radical)](https://github.com/himashree-10/Spotify-Data-Analytics)
-[![Travel-Location-Application](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Travel-Location-Application&theme=radical)](https://github.com/himashree-10/Travel-Location-Application)
-[![Grocery-Website](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Grocery-Website&theme=radical)](https://github.com/himashree-10/Grocery-Website)
+[![Spatio-Temporal-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spatio-Temporal-Data-Analysis&theme=radical)](https://github.com/himashree-10/Spatio-Temporal-Data-Analysis)
+[![Spotify-Spam-Detection](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spotify-Spam-Detection&theme=radical)](https://github.com/himashree-10/Spotify-Spam-Detection)
 
 ---
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himashree-pitty)
 
 ---
 
