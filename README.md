@@ -21,10 +21,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himashree-10&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true&custom_title=Data%20Science%20Contributions)
-
 ## 📌 Pinned Projects
 
 [![Spatio-Temporal-Data-Analysis](https://github-readme-stats.vercel.app/api/pin/?username=himashree-10&repo=Spatio-Temporal-Data-Analysis&theme=radical)](https://github.com/himashree-10/Spatio-Temporal-Data-Analysis)
