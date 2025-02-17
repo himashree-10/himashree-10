@@ -4,9 +4,9 @@
 
 ## 💡 About Me
 
-- 🔭 I’m currently working on **enhancing my skills in software development and contributing to open-source projects.**
-- 🌱 I’m learning **advanced Java concepts and exploring web scraping techniques with Python.**
-- 💬 Ask me about **Java, Python, web development, and data analysis.**
+- 🔭 I’m currently working on **data science and analytics.**
+- 🌱 I’m learning **advanced machine learning, data analysis, and computer vision.**
+- 💬 Ask me about **Python, data science, machine learning, analytics, and data visualization.**
 - 📫 How to reach me: **https://www.linkedin.com/in/himashree-pitty**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I enjoy solving complex algorithms and have a passion for developing user-friendly applications.**
@@ -16,8 +16,8 @@
 ## 🛠 Tech Stack & Tools
 
 - **Languages:** Python, SQL, JavaScript
-- **Frameworks & Libraries:** BeautifulSoup, Scrapy, Pandas, NumPy, Scikit-Learn
-- **Tools & Platforms:** Jupyter Notebook, Selenium, Git, MySQL
+- **Frameworks & Libraries:** BeautifulSoup, Scrapy, Pandas, NumPy, Scikit-Learn, OpenCV, TensorFlow, PyTorch
+- **Tools & Platforms:** Jupyter Notebook, Selenium, Git, MySQL, Tableau, Power BI
 
 ---
 
