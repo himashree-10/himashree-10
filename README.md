@@ -35,6 +35,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himashree-pitty)
 
----
-
-*Feel free to customize this template further to reflect your personal details and preferences.*
